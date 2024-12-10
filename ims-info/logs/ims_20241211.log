@@ -1,0 +1,255 @@
+2024-12-11 00:49:44,814 - INFO - Logging system initialized
+2024-12-11 00:49:44,907 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 00:50:07,379 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 00:50:07,912 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 00:50:07,915 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 00:50:07,915 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 00:50:07,915 - INFO - User Types - Stored: User, Input: User
+2024-12-11 00:50:08,051 - INFO - Login successful for user: user
+2024-12-11 00:50:08,051 - INFO - User credentials saved successfully
+2024-12-11 00:50:08,386 - INFO - Cache cleared successfully
+2024-12-11 00:50:08,426 - INFO - Firebase connection established successfully
+2024-12-11 00:50:14,010 - INFO - User logged out successfully
+2024-12-11 00:50:17,222 - INFO - User credentials loaded successfully
+2024-12-11 00:51:42,607 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 00:51:42,665 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 00:51:42,665 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 00:51:42,668 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 00:51:42,668 - INFO - User Types - Stored: User, Input: User
+2024-12-11 00:51:42,771 - INFO - Login successful for user: user
+2024-12-11 00:51:42,781 - INFO - User credentials saved successfully
+2024-12-11 00:51:43,025 - INFO - Cache cleared successfully
+2024-12-11 00:51:43,076 - INFO - Firebase connection established successfully
+2024-12-11 00:51:47,535 - INFO - User logged out successfully
+2024-12-11 00:51:51,326 - INFO - User credentials loaded successfully
+2024-12-11 00:52:12,151 - INFO - Login attempt - Username: admin, Type: Admin
+2024-12-11 00:52:12,180 - INFO - Comparing - Stored: admin, Input: admin
+2024-12-11 00:52:12,180 - INFO - User Types - Stored: Admin, Input: Admin
+2024-12-11 00:52:12,276 - INFO - Login successful for user: admin
+2024-12-11 00:52:12,281 - INFO - Admin credentials saved successfully
+2024-12-11 00:52:12,608 - INFO - Successfully fetched 3 products
+2024-12-11 00:52:17,665 - INFO - Admin logged out successfully
+2024-12-11 00:52:23,312 - INFO - Cache cleared successfully
+2024-12-11 00:52:23,382 - INFO - Cache cleared successfully
+2024-12-11 00:52:40,841 - INFO - Logging system initialized
+2024-12-11 00:52:40,977 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 00:52:44,481 - INFO - User credentials loaded successfully
+2024-12-11 00:52:45,773 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 00:52:46,492 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 00:52:46,492 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 00:52:46,492 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 00:52:46,492 - INFO - User Types - Stored: User, Input: User
+2024-12-11 00:52:46,662 - INFO - Login successful for user: user
+2024-12-11 00:52:46,664 - INFO - User credentials saved successfully
+2024-12-11 00:52:47,005 - INFO - Cache cleared successfully
+2024-12-11 00:52:47,061 - INFO - Firebase connection established successfully
+2024-12-11 00:52:53,613 - INFO - 2024-12-11 00:52:53 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 00:53:21,833 - INFO - 2024-12-11 00:53:21 - Print Bill: Bill saved: BILL20241211005319
+2024-12-11 00:56:33,855 - INFO - User logged out successfully
+2024-12-11 00:56:38,273 - INFO - User credentials loaded successfully
+2024-12-11 00:56:39,605 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 00:56:39,665 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 00:56:39,665 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 00:56:39,671 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 00:56:39,672 - INFO - User Types - Stored: User, Input: User
+2024-12-11 00:56:39,825 - INFO - Login successful for user: user
+2024-12-11 00:56:39,825 - INFO - User credentials saved successfully
+2024-12-11 00:56:40,142 - INFO - Cache cleared successfully
+2024-12-11 00:56:40,195 - INFO - Firebase connection established successfully
+2024-12-11 00:56:45,394 - INFO - 2024-12-11 00:56:45 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 00:57:14,799 - INFO - 2024-12-11 00:57:14 - Print Bill: Bill saved: BILL20241211005712
+2024-12-11 00:58:46,091 - INFO - User logged out successfully
+2024-12-11 00:58:49,291 - INFO - User credentials loaded successfully
+2024-12-11 00:58:50,751 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 00:58:50,798 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 00:58:50,801 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 00:58:50,801 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 00:58:50,801 - INFO - User Types - Stored: User, Input: User
+2024-12-11 00:58:50,901 - INFO - Login successful for user: user
+2024-12-11 00:58:50,903 - INFO - User credentials saved successfully
+2024-12-11 00:58:51,252 - INFO - Cache cleared successfully
+2024-12-11 00:58:51,284 - INFO - Firebase connection established successfully
+2024-12-11 00:58:54,531 - INFO - 2024-12-11 00:58:54 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 00:59:07,216 - INFO - 2024-12-11 00:59:07 - Print Bill: Bill saved: BILL20241211005905
+2024-12-11 01:03:03,931 - INFO - Cache cleared successfully
+2024-12-11 01:03:04,003 - INFO - Cache cleared successfully
+2024-12-11 01:03:04,066 - INFO - Cache cleared successfully
+2024-12-11 01:03:09,955 - INFO - Logging system initialized
+2024-12-11 01:03:10,056 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:03:12,511 - INFO - User credentials loaded successfully
+2024-12-11 01:03:13,994 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:03:14,834 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:03:14,834 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:03:14,834 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:03:14,834 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:03:15,006 - INFO - Login successful for user: user
+2024-12-11 01:03:15,009 - INFO - User credentials saved successfully
+2024-12-11 01:03:15,278 - INFO - Cache cleared successfully
+2024-12-11 01:03:15,485 - INFO - Firebase connection established successfully
+2024-12-11 01:03:21,034 - INFO - 2024-12-11 01:03:21 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 01:03:32,485 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:03:34,447 - INFO - 2024-12-11 01:03:34 - Print Bill: Bill saved: BILL20241211010332
+2024-12-11 01:05:54,975 - INFO - Cache cleared successfully
+2024-12-11 01:06:01,794 - INFO - Logging system initialized
+2024-12-11 01:06:01,916 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:06:04,351 - INFO - User credentials loaded successfully
+2024-12-11 01:06:05,852 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:06:06,478 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:06:06,478 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:06:06,478 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:06:06,481 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:06:06,621 - INFO - Login successful for user: user
+2024-12-11 01:06:06,625 - INFO - User credentials saved successfully
+2024-12-11 01:06:06,903 - INFO - Cache cleared successfully
+2024-12-11 01:06:06,951 - INFO - Firebase connection established successfully
+2024-12-11 01:06:12,539 - INFO - 2024-12-11 01:06:12 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 01:06:39,157 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:06:40,584 - INFO - 2024-12-11 01:06:40 - Print Bill: Bill saved: BILL20241211010639
+2024-12-11 01:07:58,688 - INFO - Cache cleared successfully
+2024-12-11 01:24:47,359 - INFO - Logging system initialized
+2024-12-11 01:24:47,484 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:24:51,352 - INFO - User credentials loaded successfully
+2024-12-11 01:24:52,992 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:24:53,745 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:24:53,746 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:24:53,747 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:24:53,747 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:24:53,973 - INFO - Login successful for user: user
+2024-12-11 01:24:53,975 - INFO - User credentials saved successfully
+2024-12-11 01:24:54,306 - INFO - Cache cleared successfully
+2024-12-11 01:24:54,366 - INFO - Firebase connection established successfully
+2024-12-11 01:25:13,729 - INFO - 2024-12-11 01:25:13 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 01:25:19,983 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:25:22,149 - INFO - 2024-12-11 01:25:22 - Print Bill: Bill saved: BILL20241211012519
+2024-12-11 01:25:35,142 - INFO - 2024-12-11 01:25:35 - Cart Update: Product: Mobile, Qty: 1
+2024-12-11 01:25:50,292 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:25:51,909 - INFO - 2024-12-11 01:25:51 - Print Bill: Bill saved: BILL20241211012550
+2024-12-11 01:26:06,819 - INFO - User logged out successfully
+2024-12-11 01:26:10,042 - INFO - Cache cleared successfully
+2024-12-11 01:31:42,563 - INFO - Logging system initialized
+2024-12-11 01:31:42,676 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:31:46,056 - INFO - User credentials loaded successfully
+2024-12-11 01:31:47,312 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:31:48,213 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:31:48,215 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:31:48,215 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:31:48,217 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:31:48,414 - INFO - Login successful for user: user
+2024-12-11 01:31:48,417 - INFO - User credentials saved successfully
+2024-12-11 01:31:48,780 - INFO - Cache cleared successfully
+2024-12-11 01:31:48,854 - INFO - Firebase connection established successfully
+2024-12-11 01:31:55,311 - INFO - 2024-12-11 01:31:55 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 01:32:40,681 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:32:42,631 - INFO - 2024-12-11 01:32:42 - Print Bill: Bill saved: BILL20241211013240
+2024-12-11 01:35:37,060 - INFO - User logged out successfully
+2024-12-11 01:35:40,312 - INFO - Cache cleared successfully
+2024-12-11 01:35:51,166 - INFO - Logging system initialized
+2024-12-11 01:35:51,269 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:35:55,095 - INFO - User credentials loaded successfully
+2024-12-11 01:35:56,695 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:35:57,322 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:35:57,323 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:35:57,323 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:35:57,325 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:35:57,488 - INFO - Login successful for user: user
+2024-12-11 01:35:57,489 - INFO - User credentials saved successfully
+2024-12-11 01:35:57,650 - INFO - Cache cleared successfully
+2024-12-11 01:35:57,744 - INFO - Firebase connection established successfully
+2024-12-11 01:36:04,765 - INFO - 2024-12-11 01:36:04 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 01:36:25,966 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:36:28,068 - INFO - 2024-12-11 01:36:28 - Print Bill: Bill saved: BILL20241211013625
+2024-12-11 01:36:43,902 - INFO - User logged out successfully
+2024-12-11 01:36:48,715 - INFO - Admin credentials loaded successfully
+2024-12-11 01:36:50,050 - INFO - Login attempt - Username: admin, Type: Admin
+2024-12-11 01:36:50,123 - INFO - Comparing - Stored: admin, Input: admin
+2024-12-11 01:36:50,125 - INFO - User Types - Stored: Admin, Input: Admin
+2024-12-11 01:36:50,266 - INFO - Login successful for user: admin
+2024-12-11 01:36:50,268 - INFO - Admin credentials saved successfully
+2024-12-11 01:36:50,735 - INFO - Successfully fetched 3 products
+2024-12-11 01:37:00,434 - INFO - Admin logged out successfully
+2024-12-11 01:37:07,935 - INFO - Cache cleared successfully
+2024-12-11 01:39:50,934 - INFO - Logging system initialized
+2024-12-11 01:39:50,989 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:40:03,557 - INFO - User credentials loaded successfully
+2024-12-11 01:40:04,903 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:40:05,665 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:40:05,666 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:40:05,667 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:40:05,667 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:40:05,816 - INFO - Login successful for user: user
+2024-12-11 01:40:05,819 - INFO - User credentials saved successfully
+2024-12-11 01:40:06,155 - INFO - Cache cleared successfully
+2024-12-11 01:40:06,213 - INFO - Firebase connection established successfully
+2024-12-11 01:40:14,707 - INFO - 2024-12-11 01:40:14 - Cart Update: Product: Iphone, Qty: 1
+2024-12-11 01:40:29,854 - INFO - Bill saved to CSV: C:\Users\hites\Desktop\inventory_management\ims-info\bills\csv\bills.csv
+2024-12-11 01:40:32,029 - INFO - 2024-12-11 01:40:32 - Print Bill: Bill saved: BILL20241211014029
+2024-12-11 01:40:45,739 - INFO - User logged out successfully
+2024-12-11 01:40:49,388 - INFO - Cache cleared successfully
+2024-12-11 01:42:40,711 - INFO - Logging system initialized
+2024-12-11 01:42:40,888 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:42:44,088 - INFO - User credentials loaded successfully
+2024-12-11 01:42:45,482 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:42:46,246 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:42:46,247 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:42:46,248 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:42:46,248 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:42:46,410 - INFO - Login successful for user: user
+2024-12-11 01:42:46,412 - INFO - User credentials saved successfully
+2024-12-11 01:42:46,756 - INFO - Cache cleared successfully
+2024-12-11 01:42:46,821 - INFO - Firebase connection established successfully
+2024-12-11 01:43:13,803 - INFO - User logged out successfully
+2024-12-11 01:43:16,566 - INFO - Cache cleared successfully
+2024-12-11 01:44:07,727 - INFO - Logging system initialized
+2024-12-11 01:44:07,788 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:44:10,383 - INFO - User credentials loaded successfully
+2024-12-11 01:44:11,319 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:44:12,015 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:44:12,016 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:44:12,017 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:44:12,017 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:44:12,171 - INFO - Login successful for user: user
+2024-12-11 01:44:12,173 - INFO - User credentials saved successfully
+2024-12-11 01:44:12,518 - INFO - Cache cleared successfully
+2024-12-11 01:44:12,573 - INFO - Firebase connection established successfully
+2024-12-11 01:44:32,117 - INFO - User logged out successfully
+2024-12-11 01:44:50,151 - INFO - Cache cleared successfully
+2024-12-11 01:45:17,111 - INFO - Logging system initialized
+2024-12-11 01:45:17,253 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:45:20,515 - INFO - User credentials loaded successfully
+2024-12-11 01:45:22,233 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:45:22,870 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:45:22,871 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:45:22,872 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:45:22,872 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:45:23,024 - INFO - Login successful for user: user
+2024-12-11 01:45:23,026 - INFO - User credentials saved successfully
+2024-12-11 01:45:23,369 - INFO - Cache cleared successfully
+2024-12-11 01:45:23,427 - INFO - Firebase connection established successfully
+2024-12-11 01:46:27,249 - INFO - User logged out successfully
+2024-12-11 01:46:30,094 - INFO - User credentials loaded successfully
+2024-12-11 01:46:32,149 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:46:32,219 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:46:32,220 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:46:32,221 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:46:32,221 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:46:32,371 - INFO - Login successful for user: user
+2024-12-11 01:46:32,374 - INFO - User credentials saved successfully
+2024-12-11 01:46:32,721 - INFO - Cache cleared successfully
+2024-12-11 01:46:32,780 - INFO - Firebase connection established successfully
+2024-12-11 01:46:40,501 - INFO - User logged out successfully
+2024-12-11 01:46:42,948 - INFO - Cache cleared successfully
+2024-12-11 01:46:43,043 - INFO - Cache cleared successfully
+2024-12-11 01:46:47,483 - INFO - Logging system initialized
+2024-12-11 01:46:47,611 - INFO - Firebase initialized successfully using credentials from : .env 
+2024-12-11 01:46:51,244 - INFO - User credentials loaded successfully
+2024-12-11 01:46:52,771 - INFO - Login attempt - Username: user, Type: User
+2024-12-11 01:46:53,555 - INFO - Comparing - Stored: admin, Input: user
+2024-12-11 01:46:53,555 - INFO - User Types - Stored: Admin, Input: User
+2024-12-11 01:46:53,556 - INFO - Comparing - Stored: user, Input: user
+2024-12-11 01:46:53,557 - INFO - User Types - Stored: User, Input: User
+2024-12-11 01:46:53,755 - INFO - Login successful for user: user
+2024-12-11 01:46:53,757 - INFO - User credentials saved successfully
+2024-12-11 01:46:54,069 - INFO - Cache cleared successfully
+2024-12-11 01:46:54,130 - INFO - Firebase connection established successfully
+2024-12-11 01:47:09,491 - INFO - User logged out successfully
+2024-12-11 01:47:12,132 - INFO - Cache cleared successfully
