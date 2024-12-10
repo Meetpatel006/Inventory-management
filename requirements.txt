@@ -1,0 +1,6 @@
+firebase-admin
+pillow
+qrcode
+pandas
+tqdm
+requests
